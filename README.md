@@ -39,7 +39,7 @@ To get a local copy up and running, follow these simple steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd solarluiso-portfolio
+   cd anassalama-portfolio
    ```
 3. Install dependencies:
 
@@ -86,9 +86,9 @@ Now, you're all set to customize and populate this portfolio website with your o
 
 The portfolio uses the following metadata to optimize its appearance and SEO:
 
-- Title: Luis Solar - Developer Portfolio
+- Title: Anass Salama - Developer Portfolio
 
-- Description: Explore the portfolio of Luis Solar, a web developer showcasing his projects and expertise.
+- Description: Explore the portfolio of Anass Salama, a web developer showcasing his projects and expertise.
 
 These meta tags are included to improve search engine visibility and provide a concise summary of the site’s content.
 
